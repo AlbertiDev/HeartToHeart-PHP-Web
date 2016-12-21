@@ -1,0 +1,304 @@
+body{
+	background-image: url("../img/header_bc.jpg");
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+
+#main{
+	width: 940px;
+	margin: 0 auto;
+}
+
+div#katrori{
+	margin-top: 70px;
+	height: 500px;
+	background-color: white;
+	border-radius:10px;
+}
+
+div#meny{
+	margin-top: 21px;
+	height: 102px;
+	overflow:hidden;
+	background-color: white;
+	border-radius:10px;
+}
+
+.rrethina{
+	width: 821px;
+	height: 465px;
+	padding-left: 60px;
+	padding-top: 37px;
+	padding-right: 59px;
+	overflow:hidden;
+}
+
+#txt-foto{
+	width: 66%;
+	float: left;
+}
+
+#txt-foto h1, #txt-btn h1{
+	font-size: 40px;
+	color: #4d4d4d;
+}
+
+.txtPar{
+	padding-top: 27px;
+	color: #4d4d4d;
+}
+
+.txtDy{
+	padding-top: 27px;
+	color: #4d4d4d;
+}
+
+.txtTr{
+	padding-top: 33px;
+	color: #4d4d4d;
+}
+
+#txt-btn{
+	width: 27%;
+	float: right;
+	color: #4d4d4d;
+}
+
+.nensh{
+	float: right;
+}
+
+#txt-foto h2{
+	font-size: 24px;
+	color: #4d4d4d;
+	padding-top: 30px;
+	padding-bottom: 15px;
+}
+
+span{
+	color: #81b003;
+}
+
+
+#txt-foto img.img{
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 48px;
+    float:left;
+}
+
+.button{
+	width: 118px;
+	height: 37px;
+	background-color: #81b003;
+	color: white;
+	border:none;
+	margin-top: 45px;
+}
+
+div.gjatM{
+	width: 867px;
+	margin: 0 auto;
+}
+
+#majt {
+	
+	float: left;
+	width: 100px;
+
+}
+
+#djatht{
+	width: 756px;
+	float: right;
+	margin-top: 44px;
+}
+
+
+#majt img{
+	
+	    margin-top: 6px;
+    width: 90px;
+
+}
+
+
+ul#menu {
+    list-style-type: none;
+    float: right;
+   
+} 
+
+ul#menu li {
+     display: inline;
+     padding-top: 40px;
+    
+}
+
+ul#menu li a{
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 20px;
+    color: #4d4d4d;
+}
+
+ul#menu li a.active, ul#menu li a:hover{
+	color: #81b003;
+}
+
+footer{
+	margin: 0 auto;
+	width: 273px;
+}
+
+#footer{
+	margin-top:  160px;
+	color: #808080;
+	font-size: 14px;
+}
+
+footer p.txtNryshe{
+	color: #6ab2b1;
+	float: left;
+}
+
+p.txtneqender{
+	text-align: center;
+}
+
+div.txtineFund{
+	line-height: 20px;
+}
+
+
+form{
+	width: 100%;
+	
+	color: #4d4d4d;
+}
+
+.contactform{
+margin: 20px 20px;
+line-height: 20px;
+
+}
+
+.contactform h2, .rrethina h3{
+	font-size: 32px;
+	color: #81b003;
+	padding-bottom: 12px;
+}
+
+.contactform div{
+	margin-bottom: 5px;
+}
+
+.btnSend {
+	
+	width: 118px;
+	height: 37px;
+	background-color: #81b003;
+	color: white;
+	border:none;
+	margin-top: 15px;
+}
+.bscc{
+	    background-color: rgb(222, 222, 222);
+}
+.nirresht{
+	width:100%;
+}
+
+.nirresht div{
+	float:left;
+	margin-right:8px;
+}
+
+.rrethina .m1, .rrethina .m2, .rrethina .m3{
+	width:100%;
+	height: 125px;
+	margin-top:10px;
+}
+
+.rrethina .m1 img, .rrethina .m2 p{
+	float:left;
+}
+
+.rrethina .m1 p, .rrethina .m2 img{
+	float:right;
+}
+
+.rrethina .m1 p, .rrethina .m2 p{
+	width:75%;
+}
+
+.rrethina .m3 p.tpl, .rrethina .m3 p.tpr{
+	width:35%;
+}
+
+.rrethina .m3 p.tpl, .rrethina .m3 img{
+	float:left;
+	margin-right:5px;
+}
+
+.rrethina .m3 p.tpr{
+	float:right;
+}
+
+.gG, .ga, .ftiy{
+	width:100%;
+	    margin-bottom: 25px;
+}
+
+.gG img{
+	width:45%;
+}
+
+.ga img{
+	width:24%;
+}
+
+.ftiy img{
+	    width: 10%;
+    float: left;
+    margin-right: 100px;
+}
+
+.rrethina .s1, .rrethina .s2, .rrethina .s3{
+	width:30%;
+	height: 100%;
+	margin-right: 25px;
+	
+}
+
+.s1, .s2, .s3{
+	float:left;
+	
+}
+
+.s1 h3, .s2 h3, .s3 h3{
+	color: gray;
+	
+}
+
+
+.usr{
+	margin-top:50px;
+	background-color:white;
+	border-radius:10px;
+	color: gray;
+	height:95px;
+}
+.usrM, .usrD{
+	margin-top:25px;
+}
+
+.usr .usrM{
+	margin-left:25px;
+	float:left;
+}
+.usr .usrD{
+	margin-right:25px;
+	float:right;
+}
